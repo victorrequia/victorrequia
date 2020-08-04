@@ -4,11 +4,23 @@ Comecei a gostar de programar e me inpirar para tornar disso minha futura profis
 No momento estou cursando Ciências da computação e estou vivendo umas das melhores experiêcias da minha vida!!! 
 😄 😄 😄 😄 😄
 
-- 🌱 I’m currently learning
-HTML, CSS. JAVA, HASKELL, C
+<br>- 🌱 Eu estou aprendendo:
+<br>HTML, CSS. JAVA, HASKELL e C<br>
 
-- ⚡ Fun fact:
-Prefiro criar a jogar 💻
+-⚡Fatos curiosos:
+<br>Prefiro criar a jogar 💻<br>
+
+-📞Contatos
+<br>victorrequia@gmail.com<br>
+
+-🛠Onde trabalho atualmente
+<br>Não estou trabalhando no momento
+
+-🧙Em que você procura colaborar:
+<br>Procuro colaborar com projetos que envolvam Tibia e Front-End<br>
+
+-✌🏼Com o que você pode ajudar quem estiver precisando:
+<br>Posso te ajudar em HASKELL C E JAVA :><br>
 <!--
 **victorrequia/victorrequia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
