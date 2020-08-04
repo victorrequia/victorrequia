@@ -1,5 +1,14 @@
-### Hi there 👋
+### Olaaa 👋
+Meu nome é Victor, tenho 19 anos e adoro Programar 🤪
+Comecei a gostar de programar e me inpirar para tornar disso minha futura profissão com o jogo Tibia. Sempre fui muito fã das mecânias e de como o jogo, apesar de "simples" consegue tranformar nossa imaginação e criar um universo totalmente imerso.
+No momento estou cursando Ciências da computação e estou vivendo umas das melhores experiêcias da minha vida!!! 
+😄 😄 😄 😄 😄
 
+- 🌱 I’m currently learning
+HTML, CSS. JAVA, HASKELL, C
+
+- ⚡ Fun fact:
+Prefiro criar a jogar 💻
 <!--
 **victorrequia/victorrequia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
