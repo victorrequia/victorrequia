@@ -1,17 +1,16 @@
-### Olaaa 👋
-Meu nome é Victor, tenho 20 anos e adoro Programar
+### Ola 👋
+Meu nome é Victor, tenho 21 anos e adoro Programar
 Comecei a gostar de programar e me inspirar para tornar disso minha futura profissão com o jogo Tibia. Sempre fui muito fã das mecânias e de como o jogo, apesar de "simples" consegue tranformar nossa imaginação e criar um universo totalmente imerso.
 No momento estou cursando Ciências da computação e estou vivendo uma das melhores experiêcias da minha vida!!! 
-😄 😄 😄 😄 😄
 
 <br>- 🌱 Eu estou aprendendo:
-<br>HTML, CSS. JAVA, HASKELL e C, DART - FLUTTER<br>
+<br>HTML, CSS. JAVASCRIPT, PHP, ASSEMBLY, DART, FLUTTER<br>
 
 -⚡Fatos curiosos:
 <br>Prefiro criar a jogar 💻<br>
 
 -📞Contatos
-<br>victorrequia@hotmail.com<br>
+<br>victorrequia@gmail.com<br>
 
 -🛠Onde trabalho atualmente
 <br>Não estou trabalhando no momento
