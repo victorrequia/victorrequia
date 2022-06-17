@@ -7,7 +7,8 @@ No momento estou cursando Ciências da computação e estou vivendo uma das melh
 <br>HTML, CSS. JAVASCRIPT, PHP, ASSEMBLY, DART, FLUTTER<br>
 
 -⚡Fatos curiosos:
-<br>Prefiro criar a jogar 💻<br>
+<br>Prefiro criar a jogar 💻
+<br>Criador APP Tibia Infos 🧙<br>
 
 -📞Contatos
 <br>victorrequia@gmail.com<br>
@@ -15,7 +16,7 @@ No momento estou cursando Ciências da computação e estou vivendo uma das melh
 -🛠Onde trabalho atualmente
 <br>Não estou trabalhando no momento
 
--🧙Em que você procura colaborar:
+-👯Em que você procura colaborar:
 <br>Procuro colaborar com projetos que me identifico<br>
 
 -✌🏼Com o que você pode ajudar quem estiver precisando:
