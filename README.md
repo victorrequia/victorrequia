@@ -1,7 +1,7 @@
 ### Ola 👋
-Meu nome é Victor, tenho 21 anos e adoro Programar
-Comecei a gostar de programar e me inspirar para tornar disso minha futura profissão com o jogo Tibia. Sempre fui muito fã das mecânias e de como o jogo, apesar de "simples" consegue tranformar nossa imaginação e criar um universo totalmente imerso.
-No momento estou cursando Ciências da computação e estou vivendo uma das melhores experiêcias da minha vida!!! 
+Meu nome é Victor, tenho 21 anos e sou estudante da Universidade do Estado de Santa Catarina (UDESC) no curso de Ciência da Computação.
+Comecei a gostar de programar e me inspirar para tornar disso minha futura profissão com o jogo Tibia. Sempre fui muito fã das mecânias e de como o jogo, apesar de "simples" consegue tranformar nossa imaginação e criar um universo totalmente imersivo.
+Estou vivendo uma das melhores experiêcias da minha vida!!! 
 
 <br>- 🌱 Eu estou aprendendo:
 <br>HTML, CSS. JAVASCRIPT, PHP, ASSEMBLY, DART, FLUTTER<br>
@@ -14,7 +14,7 @@ No momento estou cursando Ciências da computação e estou vivendo uma das melh
 <br>victorrequia@gmail.com<br>
 
 -🛠Onde trabalho atualmente
-<br>Não estou trabalhando no momento
+<br>Bolsista pelo grupo de extensão NEMOBIS
 
 -👯Em que você procura colaborar:
 <br>Procuro colaborar com projetos que me identifico<br>
