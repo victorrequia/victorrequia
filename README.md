@@ -1,25 +1,26 @@
-### Ola 👋
-Meu nome é Victor, tenho 21 anos e sou estudante da Universidade do Estado de Santa Catarina (UDESC) no curso de Ciência da Computação.
-Comecei a gostar de programar e me inspirar para tornar disso minha futura profissão com o jogo Tibia. Sempre fui muito fã das mecânias e de como o jogo, apesar de "simples" consegue tranformar nossa imaginação e criar um universo totalmente imersivo.
-Estou vivendo uma das melhores experiêcias da minha vida!!! 
+### Olá, tudo bem ? 👋
+
+Sou Victor, um estudante de 21 anos do curso de Ciência da Computação da Universidade do Estado de Santa Catarina (UDESC). 
+
+Meu interesse pela programação começou desde criança com o jogo Tibia, que sempre admirei pela sua mecânica simples, mas que consegue criar um universo totalmente imersivo e estimular a imaginação. Desde então, tenho trabalhado para transformar minha paixão pela programação em minha futura profissão. Estou sempre buscando novos desafios e oportunidades para desenvolver minhas habilidades e crescer na área da computação.
 
 <br>- 🌱 Eu estou aprendendo:
 <br>HTML, CSS. JAVASCRIPT, PHP, ASSEMBLY, DART, FLUTTER<br>
 
--⚡Fatos curiosos:
+-⚡ Fatos curiosos:
 <br>Prefiro criar a jogar 💻
 <br>Criador APP Tibia Infos 🧙<br>
 
--📞Contatos
+-📞 Contatos
 <br>victorrequia@gmail.com<br>
 
--🛠Onde trabalho atualmente
+-🛠 Onde trabalho atualmente
 <br>Bolsista pelo grupo de extensão NEMOBIS
 
--👯Em que você procura colaborar:
+-👯 Em que você procura colaborar:
 <br>Procuro colaborar com projetos que me identifico<br>
 
--✌🏼Com o que você pode ajudar quem estiver precisando:
+-✌🏼 Com o que você pode ajudar quem estiver precisando:
 <br>Posso ajudar com qualquer coisa que estiver ao meu alcance<br>
 <!--
 **victorrequia/victorrequia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
