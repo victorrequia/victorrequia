@@ -7,11 +7,11 @@ Meu interesse pela programação começou desde criança com o jogo Tibia, que s
 <br>- Eu estou aprendendo:
 <br>HTML, CSS. JAVASCRIPT, PHP, ASSEMBLY, DART, FLUTTER<br>
 
-- Fatos curiosos:
+<br>- Fatos curiosos:
 <br>Criador APP Tibia Infos<br>
 <br>Criador e-commerce ZayonInsider<br>
 
-- Onde trabalho atualmente
+<br>- Onde trabalho atualmente
 <br>Bolsista pelo grupo de extensão NEMOBIS
 
 <!--
