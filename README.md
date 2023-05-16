@@ -8,8 +8,8 @@ Meu interesse pela programação começou desde criança com o jogo Tibia, que s
 <br>HTML, CSS. JAVASCRIPT, PHP, ASSEMBLY, DART, FLUTTER<br>
 
 -⚡ Fatos curiosos:
-<br>Prefiro criar a jogar 💻
-<br>Criador APP Tibia Infos 🧙<br>
+<br>Criador APP Tibia Infos<br>
+<br>Criador e-commerce ZayonInsider<br>
 
 -📞 Contatos
 <br>victorrequia@gmail.com<br>
