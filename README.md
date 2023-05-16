@@ -8,7 +8,7 @@ Meu interesse pela programação começou desde criança com o jogo Tibia, que s
 <br>HTML, CSS. JAVASCRIPT, PHP, ASSEMBLY, DART, FLUTTER<br>
 
 <br>- Fatos curiosos:
-<br>Criador APP Tibia Infos<br>
+<br>Criador APP Tibia Infos
 <br>Criador e-commerce ZayonInsider<br>
 
 <br>- Onde trabalho atualmente
