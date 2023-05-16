@@ -17,11 +17,6 @@ Meu interesse pela programação começou desde criança com o jogo Tibia, que s
 -🛠 Onde trabalho atualmente
 <br>Bolsista pelo grupo de extensão NEMOBIS
 
--👯 Em que você procura colaborar:
-<br>Procuro colaborar com projetos que me identifico<br>
-
--✌🏼 Com o que você pode ajudar quem estiver precisando:
-<br>Posso ajudar com qualquer coisa que estiver ao meu alcance<br>
 <!--
 **victorrequia/victorrequia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
