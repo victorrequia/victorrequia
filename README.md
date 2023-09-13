@@ -1,7 +1,7 @@
-<br>Criador APP Tibia Infos
-<br>Criador e-commerce ZayonInsider
-<br>Criador site imóveis PapamikeItapema
-<br>Contribuidor com o aplicativo BikeTrilhas
+<br>Criador APP Tibia Infos (Flutter)
+<br>Criador e-commerce ZayonInsider (Wordpress)
+<br>Criador site imóveis PapamikeItapema (Wordpress)
+<br>Contribuidor com o aplicativo BikeTrilhas (Flutter)
 <br>Bolsista pelo grupo de extensão NEMOBIS
 
 <a href="https://github.com/victorrequia/github-readme-stats">
